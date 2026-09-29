@@ -36,27 +36,3 @@ An intelligent machine learning application to automatically detect and classify
 | Random Forest | 93.80% | 94.01% | 93.65% | 93.83% |
 | Naive Bayes | 92.00% | 91.50% | 92.61% | 92.05% |
 
-## Installation
-
-### Prerequisites
-- Python 3.8+
-- pip
-
-### Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/Meenakshimadhu192001/Exit-exam_fake-or-real-news.git
-cd Exit-exam_fake-or-real-news
-
-# Create virtual environment
-python -m venv venv
-
-# Activate virtual environment
-# On Windows:
-venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
